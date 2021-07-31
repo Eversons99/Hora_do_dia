@@ -1,7 +1,7 @@
 body{
     background: rgb(77, 202, 46);
     font: normal 15pt Arial;
-    margin: 5px;
+    
     
 }
 header {
@@ -12,7 +12,7 @@ section {
     background: white;
     border-radius: 10px;
     padding: 15px;
-    width: 320px; /*Defindio o tamanho fixo do elemento html*/
+    width: 310px; /*Defindio o tamanho fixo do elemento html*/
     margin: auto; /*Centralizando o elemento*/
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.534); /*Adicionando uma sombra ao elemento*/
     
